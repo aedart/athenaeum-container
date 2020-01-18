@@ -8,6 +8,8 @@ use Illuminate\Contracts\Container\Container;
 use Illuminate\Support\Facades\Facade;
 
 /**
+ * @deprecated Use \Aedart\Support\Facades\IoCFacade instead
+ *
  * IoC Facade
  *
  * @see \Illuminate\Support\Facades\Facade
